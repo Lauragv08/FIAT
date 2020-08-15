@@ -1,0 +1,88 @@
+section, footer{
+
+    padding: 3%;
+
+}
+
+
+
+img{
+
+    width: 100%;
+
+    height: auto;
+
+}
+
+
+
+.TTT{
+
+    background-color: #ffffff;
+
+    color: black;
+
+}
+
+
+
+.XTT{
+
+    background-color: #faf9f9;
+
+}
+.inicio{
+
+    background-color: rgba(199, 20, 20, 0.945);
+
+}
+
+
+
+.list-item{
+
+    display: inline-block;
+
+}
+
+
+
+.list-item{
+
+    display: inline-block;
+
+}
+
+
+
+.Autos{
+
+    background-color:  rgba(199, 20, 20, 0.945);
+
+}
+
+
+
+.carta{
+
+    background-color: rgb(248, 246, 246);
+
+    padding: 0%;
+
+}
+
+    .carta:hover{
+
+        background-color: #151515;
+
+        color: white;
+
+    }
+
+
+
+footer{
+
+    background-color: #ffffffe8;
+
+}
